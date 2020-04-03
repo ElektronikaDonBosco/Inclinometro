@@ -17,4 +17,3 @@ Este proyecto consiste en mostrar en una pequeña pantalla Oled de 0’96” el 
 &nbsp;&nbsp;&nbsp;&nbsp;Conclusiones 									  
 &nbsp;&nbsp;&nbsp;&nbsp;Referencias 
 
-![](https://github.com/xabizq/AtomAnt/blob/master/pictures/IMG_0261%20copia.jpg)
