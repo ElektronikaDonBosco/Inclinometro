@@ -16,3 +16,7 @@ Este proyecto consiste en mostrar en una pequeña pantalla Oled de 0’96” el 
 &nbsp;&nbsp;&nbsp;&nbsp;Presupuesto 									  
 &nbsp;&nbsp;&nbsp;&nbsp;Conclusiones 									  
 &nbsp;&nbsp;&nbsp;&nbsp;Referencias 
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ElektronikaDonBosco/Inclinometro/blob/master/Im%C3%A1genes/esquema%20electrico.PNG">
+</p>
